@@ -2,13 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-!folder/
-folder/*
-!folder/a/
-folder/a/*
-!folder/a/b1/
-!folder/a/b2/
-!folder/a/file.txt
+
 # C extensions
 *.so
 
@@ -137,5 +131,3 @@ dmypy.json
 temp/*
 
 debug_tasks.py
-
-mh_app/local_tests/
